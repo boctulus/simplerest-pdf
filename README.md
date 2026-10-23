@@ -1,3 +1,5 @@
+> **Legacy package identity.** This repository retains the v1.0.1 tag. For new SimpleRest projects use [simplerest-fpdf](https://github.com/boctulus/simplerest-fpdf). The successor repositories are available on GitHub without version tags and are not registered on Packagist.
+
 # SimpleRest PDF
 
 Optional PDF integration for applications that use `boctulus/simplerest`.
